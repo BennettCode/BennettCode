@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BennettCode
 - 👀 I’m interested in - Software Development 
-- 🌱 I’m currently learning - Lua and Python
+- 🌱 I’m currently learning - C++
 - 📫 How to reach me - Bennett#1897 (Discord)
